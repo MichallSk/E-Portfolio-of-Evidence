@@ -1,0 +1,5 @@
+Introduction to secure networking principles.
+Focus areas:
+- Confidentiality
+- Integrity
+- Availability
